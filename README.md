@@ -1,2 +1,5 @@
-# CTF_Writeups
-Writeup Challenges I have solved in CTF competitions
+# CTF Writeups
+<p align="center">
+<img src="resources/images/Logo.png">
+<br>
+<i>Writeups Challenges I have solved</i>
