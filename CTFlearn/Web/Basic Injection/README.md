@@ -17,7 +17,7 @@ After we go to the given URL https://web.ctflearn.com/web4/, we are asked to sub
 <br>
 
 #### Step-2:
-i tried basic SQL payloads the existing database.
+I tried basic SQL payloads the existing database.
 
 I tried `' OR '1' = '1`
 
