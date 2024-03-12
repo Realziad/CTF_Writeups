@@ -4,7 +4,7 @@ The main idea finding the flag hidden inside an image which its dimension is man
 
 #### Problem Statement:
 <p align="center">
-<img src="resources/images/Basic Injection.png">
+<img src="resources/images/abandoned place.png">
 <br>
 
 
@@ -13,19 +13,12 @@ Open the image inside CyberChef and convert it to hex.
 
 #### demonistration:
 <p align="center">
-<img src="resources/images/WebPage.png">
+<img src="resources/images/tohex.png">
 <br>
 
 #### Step-2:
 Replace input with output in CyberChef.
 
-#### demonistration:
-<p align="center">
-<img src="resources/images/WebPage.png">
-<br>
-
-#### Step-2:
-Replace input with output in CyberChef.
 
 #### Step-3:
 Hold ctrl+F in the output field and search for ff c0. Note the following values starting at ff c0:
@@ -34,7 +27,7 @@ Hold ctrl+F in the output field and search for ff c0. Note the following values 
 
 #### the relevant bytes and what they mean in the image below:
 <p align="center">
-<img src="resources/images/WebPage.png">
+<img src="resources/images/out.png">
 <br>
 
 #### demonistration:
