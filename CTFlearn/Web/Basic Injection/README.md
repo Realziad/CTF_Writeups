@@ -42,5 +42,5 @@ Data: @datboiiii
 ```
 
 #### The Flag is obtained:
-`th4t_is_why_you_n33d_to_sanitiz3_inputs`
+`CTFlearn{th4t_is_why_you_n33d_to_sanitiz3_inputs}`
 
