@@ -37,6 +37,11 @@ Hold ctrl+F in the output field and search for ff c0. Note the following values 
 <img src="resources/images/WebPage.png">
 <br>
 
+#### demonistration:
+<p align="center">
+<img src="resources/images/WebPage.png">
+<br>
+
 #### Step-4
 I changed the bytes to :
 
@@ -45,11 +50,15 @@ I changed the bytes to :
 #### Step-5
 add "from hex" and "render image" in CyberChef operation panel and save the image
 
-#### Output image will be:
+#### demonistration:
 <p align="center">
 <img src="resources/images/WebPage.png">
 <br>
 
+#### Output image will be:
+<p align="center">
+<img src="resources/images/WebPage.png">
+<br>
 
 
 #### The Flag is obtained:
