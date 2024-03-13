@@ -27,12 +27,12 @@ Hold ctrl+F in the output field and search for ff c0. Note the following values 
 
 #### the relevant bytes and what they mean in the image below:
 <p align="center">
-<img src="resources/images/out.png">
+<img src="resources/images/bytes.png">
 <br>
 
 #### demonistration:
 <p align="center">
-<img src="resources/images/WebPage.png">
+<img src="resources/images/out.png">
 <br>
 
 #### Step-4
@@ -45,12 +45,12 @@ add "from hex" and "render image" in CyberChef operation panel and save the imag
 
 #### demonistration:
 <p align="center">
-<img src="resources/images/WebPage.png">
+<img src="resources/images/image render.png">
 <br>
 
 #### Output image will be:
 <p align="center">
-<img src="resources/images/WebPage.png">
+<img src="resources/images/soution.jpg">
 <br>
 
 
