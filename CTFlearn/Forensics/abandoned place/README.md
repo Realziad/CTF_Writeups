@@ -50,7 +50,7 @@ add "from hex" and "render image" in CyberChef operation panel and save the imag
 
 #### Output image will be:
 <p align="center">
-<img src="resources/images/soution.png">
+<img src="resources/images/solution.jpg">
 <br>
 
 
